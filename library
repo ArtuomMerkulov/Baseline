@@ -3,3 +3,6 @@ mathplotlib
 numpy
 catboost
 sklearn
+faiss-cpu
+bisect
+warnings
